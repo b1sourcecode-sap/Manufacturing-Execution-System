@@ -1,0 +1,5 @@
+Error in GRPO : DocEntry 300006 @ 6/25/2019 5:51:38 PM: Error: 1). [SAP AG][LIBODBCHDB32 DLL][HDBODBC32] General error;260 invalid column name: U_POEntry: line 1 col 149 (at pos 148)
+
+Error in GRPO : DocEntry 300006 @ 6/25/2019 6:06:25 PM: Error: COM object that has been separated from its underlying RCW cannot be used.
+Error in GRPO : DocEntry 300001 @ 6/25/2019 6:31:32 PM: Error: COM object that has been separated from its underlying RCW cannot be used.
+Error in GRPO : DocEntry 300001 @ 6/25/2019 8:22:23 PM: Error: COM object that has been separated from its underlying RCW cannot be used.

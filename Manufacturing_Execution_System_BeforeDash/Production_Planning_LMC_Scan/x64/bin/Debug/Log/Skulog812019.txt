@@ -1,0 +1,9 @@
+ExportReportToPdfFile Error :Error in File EmailInvoiceCopy 10988_6116_{7D28E660-842E-4D95-839F-ABE948D54366}.rpt:
+Unable to connect: incorrect log on parameters.
+Details:  [Database Vendor Code: -10709 ]
+ExportReportToPdfFile Error :Error in File EmailInvoiceCopy 10528_9864_{748E240A-0910-4E36-9F7E-728CE6999892}.rpt:
+Unable to connect: incorrect log on parameters.
+Details:  [Database Vendor Code: -10709 ]
+ExportReportToPdfFile Error :Error in File EmailInvoiceCopy 10528_12264_{B9EF9F94-0910-401E-A5C4-71EA15676EAE}.rpt:
+Unable to connect: incorrect log on parameters.
+Details:  [Database Vendor Code: -10709 ]

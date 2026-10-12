@@ -1,0 +1,357 @@
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe.config
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\LGBOM_LaxmiMotors.pdb
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\CRDisplay.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\cstLng.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\Newtonsoft.Json.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\System.Net.Http.Formatting.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\stdole.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\Newtonsoft.Json.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\bin\Debug\System.Net.Http.Formatting.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.ResolveComReference.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.Form1.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.GenerateResource.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CoreCompileInputs.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CopyComplete
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.exe
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.pdb
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.AssemblyReference.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe.config
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\LGBOM_LaxmiMotors.pdb
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\CRDisplay.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\cstLng.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\Newtonsoft.Json.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\System.Net.Http.Formatting.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\stdole.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\Newtonsoft.Json.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\bin\Debug\System.Net.Http.Formatting.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.ResolveComReference.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.Form1.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.GenerateResource.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CoreCompileInputs.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CopyComplete
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.exe
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.pdb
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.AssemblyReference.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe.config
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\LGBOM_LaxmiMotors.pdb
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\CRDisplay.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\cstLng.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\Newtonsoft.Json.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\System.Net.Http.Formatting.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\stdole.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\Newtonsoft.Json.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\bin\Debug\System.Net.Http.Formatting.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.ResolveComReference.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.Form1.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.GenerateResource.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CoreCompileInputs.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CopyComplete
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.exe
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.pdb
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_20231217\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.AssemblyReference.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe.config
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\LGBOM_LaxmiMotors.pdb
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\CRDisplay.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\cstLng.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\Newtonsoft.Json.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\System.Net.Http.Formatting.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\stdole.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\Newtonsoft.Json.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\bin\Debug\System.Net.Http.Formatting.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.AssemblyReference.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.ResolveComReference.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.Form1.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.GenerateResource.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CoreCompileInputs.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CopyComplete
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.exe
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.pdb
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe.config
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\LGBOM_LaxmiMotors.pdb
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\CRDisplay.dll
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\cstLng.dll
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\Newtonsoft.Json.dll
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\System.Net.Http.Formatting.dll
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\stdole.dll
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\Newtonsoft.Json.xml
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\Sap.Data.Hana.v4.5.pdb
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\bin\Debug\System.Net.Http.Formatting.xml
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.AssemblyReference.cache
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.ResolveComReference.cache
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.Form1.resources
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.GenerateResource.cache
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CoreCompileInputs.cache
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CopyComplete
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.exe
+D:\Drive Personal\Bibas\LGBOM_Updated_20231218\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.pdb
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe.config
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\LGBOM_LaxmiMotors.pdb
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\CRDisplay.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\cstLng.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\Newtonsoft.Json.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\System.Net.Http.Formatting.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\stdole.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\Newtonsoft.Json.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\bin\Debug\System.Net.Http.Formatting.xml
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.AssemblyReference.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.ResolveComReference.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.Form1.resources
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.GenerateResource.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CoreCompileInputs.cache
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CopyComplete
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.exe
+D:\SAPAddon_Upgrade_10.0\Laxmi Motors\LGBOM\LGBOM_Updated_20231218\LGBOM_290724\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.pdb
+E:\ird\LGBOM\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\LGBOM\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\LGBOM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe.config
+E:\ird\LGBOM\bin\Debug\LGBOM_LaxmiMotors.exe
+E:\ird\LGBOM\bin\Debug\LGBOM_LaxmiMotors.pdb
+E:\ird\LGBOM\bin\Debug\CRDisplay.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.Shared.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\ird\LGBOM\bin\Debug\cstLng.dll
+E:\ird\LGBOM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\LGBOM\bin\Debug\Newtonsoft.Json.dll
+E:\ird\LGBOM\bin\Debug\Sap.Data.Hana.v4.5.dll
+E:\ird\LGBOM\bin\Debug\System.Net.Http.Formatting.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ird\LGBOM\bin\Debug\FlashControlV71.dll
+E:\ird\LGBOM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ird\LGBOM\bin\Debug\stdole.dll
+E:\ird\LGBOM\bin\Debug\ShockwaveFlashObjects.dll
+E:\ird\LGBOM\bin\Debug\Newtonsoft.Json.xml
+E:\ird\LGBOM\bin\Debug\Sap.Data.Hana.v4.5.xml
+E:\ird\LGBOM\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+E:\ird\LGBOM\bin\Debug\System.Net.Http.Formatting.xml
+E:\ird\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.AssemblyReference.cache
+E:\ird\LGBOM\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\LGBOM\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\ird\LGBOM\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\ird\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.ResolveComReference.cache
+E:\ird\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+E:\ird\LGBOM\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+E:\ird\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.Form1.resources
+E:\ird\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.GenerateResource.cache
+E:\ird\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CoreCompileInputs.cache
+E:\ird\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CopyComplete
+E:\ird\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.exe
+E:\ird\LGBOM\obj\x64\Debug\LGBOM_LaxmiMotors.pdb
+E:\ird\LGBOM\x64\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\LGBOM\x64\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\LGBOM\x64\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\LGBOM\x64\bin\Debug\LGBOM_LaxmiMotors.exe.config
+E:\ird\LGBOM\x64\bin\Debug\LGBOM_LaxmiMotors.exe
+E:\ird\LGBOM\x64\bin\Debug\LGBOM_LaxmiMotors.pdb
+E:\ird\LGBOM\x64\bin\Debug\CRDisplay.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.Shared.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\ird\LGBOM\x64\bin\Debug\cstLng.dll
+E:\ird\LGBOM\x64\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\LGBOM\x64\bin\Debug\Newtonsoft.Json.dll
+E:\ird\LGBOM\x64\bin\Debug\Sap.Data.Hana.v4.5.dll
+E:\ird\LGBOM\x64\bin\Debug\System.Net.Http.Formatting.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ird\LGBOM\x64\bin\Debug\FlashControlV71.dll
+E:\ird\LGBOM\x64\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ird\LGBOM\x64\bin\Debug\stdole.dll
+E:\ird\LGBOM\x64\bin\Debug\ShockwaveFlashObjects.dll
+E:\ird\LGBOM\x64\bin\Debug\Newtonsoft.Json.xml
+E:\ird\LGBOM\x64\bin\Debug\Sap.Data.Hana.v4.5.xml
+E:\ird\LGBOM\x64\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+E:\ird\LGBOM\x64\bin\Debug\System.Net.Http.Formatting.xml
+E:\ird\LGBOM\x64\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\LGBOM\x64\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\ird\LGBOM\x64\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\ird\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.ResolveComReference.cache
+E:\ird\LGBOM\x64\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+E:\ird\LGBOM\x64\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+E:\ird\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.Form1.resources
+E:\ird\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.GenerateResource.cache
+E:\ird\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CoreCompileInputs.cache
+E:\ird\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CopyComplete
+E:\ird\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.exe
+E:\ird\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.pdb
+E:\ird\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.AssemblyReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\LGBOM_LaxmiMotors.exe.config
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\LGBOM_LaxmiMotors.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\LGBOM_LaxmiMotors.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\CRDisplay.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\cstLng.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Newtonsoft.Json.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Sap.Data.Hana.v4.5.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\System.Net.Http.Formatting.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\stdole.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Newtonsoft.Json.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Sap.Data.Hana.v4.5.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Sap.Data.Hana.v4.5.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\System.Net.Http.Formatting.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.AssemblyReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.ResolveComReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.Form1.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.GenerateResource.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CoreCompileInputs.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CopyComplete
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.pdb
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\LGBOM_LaxmiMotors.exe.config
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\LGBOM_LaxmiMotors.exe
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\LGBOM_LaxmiMotors.pdb
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\CRDisplay.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\cstLng.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Newtonsoft.Json.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\System.Net.Http.Formatting.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\stdole.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Newtonsoft.Json.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Sap.Data.Hana.v4.5.pdb
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\bin\Debug\System.Net.Http.Formatting.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.AssemblyReference.cache
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.ResolveComReference.cache
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.Form1.resources
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.GenerateResource.cache
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CoreCompileInputs.cache
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CopyComplete
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.exe
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\LGBOM\x64\obj\x64\Debug\LGBOM_LaxmiMotors.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\LGBOM_LaxmiMotors.exe.config
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\LGBOM_LaxmiMotors.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\LGBOM_LaxmiMotors.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\CRDisplay.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\cstLng.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\Newtonsoft.Json.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\System.Net.Http.Formatting.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\stdole.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\Newtonsoft.Json.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\System.Net.Http.Formatting.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.AssemblyReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.ResolveComReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\InvoicePrinting_Sujal.DisplayReport.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\InvoicePrinting_Sujal.ReportDisplay.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\LGBOM_LaxmiMotors.Form1.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.GenerateResource.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CoreCompileInputs.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\LGBOM_LaxmiMotors.csproj.CopyComplete
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\LGBOM_LaxmiMotors.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\obj\x64\Debug\LGBOM_LaxmiMotors.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\Sap.Data.Hana.v4.5.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\Sap.Data.Hana.v4.5.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\Production_Planning\x64\bin\Debug\Sap.Data.Hana.v4.5.dll.config

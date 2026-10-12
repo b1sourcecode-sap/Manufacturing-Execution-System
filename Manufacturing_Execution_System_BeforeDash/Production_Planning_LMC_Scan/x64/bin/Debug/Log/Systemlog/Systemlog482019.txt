@@ -1,0 +1,2 @@
+Error in GRPO : DocEntry 102065 @ 8/4/2019 5:29:27 PM: Error: COM object that has been separated from its underlying RCW cannot be used.
+Error in GRPO : DocEntry 102065 @ 8/4/2019 7:05:20 PM: Error: Unable to cast COM object of type 'System.__ComObject' to interface type 'SAPbouiCOM.IApplication'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{D1F75D47-137C-4335-AC2A-3FE209831B6A}' failed due to the following error: System call failed. (Exception from HRESULT: 0x80010100 (RPC_E_SYS_CALL_FAILED)).

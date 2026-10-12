@@ -1,0 +1,67 @@
+<Application>
+  <Menus>
+    <action type="add">
+      <!-- 1. Main Folder: Production Process -->
+      <Menu Checked="0" Enabled="1" FatherUID="4352" String="Manufacturing" Type="2" Position="1" UniqueID="MNFH">
+        <Menus>
+          <action type="add">
+
+            <!-- 2. Sub-Folder: Master -->
+            <Menu Checked="0" Enabled="1" FatherUID="MNFH" String="Master SetUp" Type="2" Position="1" UniqueID="MNFHM">
+              <Menus>
+                <action type="add">
+                  <!-- Menus under Master -->
+                  <Menu Checked="0" Enabled="1" FatherUID="MNFHM" String="Engine/ Chasis Mapping Master" Type="1" Position="1" UniqueID="ENGCHSMAP"/>
+				  <Menu Checked="0" Enabled="1" FatherUID="MNFHM" String="Lot Number Master" Type="1" Position="2" UniqueID="LOTMASTER"/>
+				  <Menu Checked="0" Enabled="1" FatherUID="MNFHM" String="OCN Master" Type="1" Position="3" UniqueID="OCNMASTER"/>
+                </action>
+              </Menus>
+            </Menu>
+
+            <!-- 3. Sub-Folder: Transaction -->
+            <Menu Checked="0" Enabled="1" FatherUID="MNFH" String="Transactional Document" Type="2" Position="2" UniqueID="MNFHT">
+              <Menus>
+                <action type="add">
+                  <!-- Menus under Transaction -->
+				  <Menu Checked="0" Enabled="1" FatherUID="MNFHT" String="Production Order " Type="1" Position="1" UniqueID="PRDORDR"/>
+				  <Menu Checked="0" Enabled="1" FatherUID="MNFHT" String="Inventory Transfer Request" Type="1" Position="2" UniqueID="INVTTRANSREQ"/>
+			      <Menu Checked="0" Enabled="1" FatherUID="MNFHT" String="Inventory Transfer" Type="1" Position="3" UniqueID="INVTTRANS"/>
+                  <Menu Checked="0" Enabled="1" FatherUID="MNFHT" String="Work Order Details" Type="1" Position="4" UniqueID="WORKORDRD"/>
+                  <Menu Checked="0" Enabled="1" FatherUID="MNFHT" String="Job Order Execution" Type="1" Position="5" UniqueID="JOBORDRE"/>
+			      <Menu Checked="0" Enabled="1" FatherUID="MNFHT" String="Issue for Production" Type="1" Position="6" UniqueID="ISSUEPROD"/>
+				  <Menu Checked="0" Enabled="1" FatherUID="MNFHT" String="Receipt from Production" Type="1" Position="7" UniqueID="RECEIPTPROD"/>
+				  <Menu Checked="0" Enabled="1" FatherUID="MNFHT" String="Production Master" Type="1" Position="8" UniqueID="PRODMASTER"/>
+                </action>
+              </Menus>
+            </Menu>
+
+			  <Menu Checked="0" Enabled="1" FatherUID="MNFH" String="Production Dashboard" Type="1" Position="3" UniqueID="MNFDB"/>
+
+          </action>
+        </Menus>
+      </Menu>
+
+    </action>
+  </Menus>
+</Application>
+
+
+
+<!--<Application1>
+	<Menus>
+	 <action type="add">
+		 --><!--<Menu Checked="0" Enabled="1" FatherUID="43535" String="Approved BP Master Creation" Type="1" position="3" UniqueID="ABPCreation"/>
+		 <Menu Checked="0" Enabled="1" FatherUID="14848" String="Approved BP Approval" Type="1" position="5" UniqueID="ABPTemplate"/>
+		 <Menu Checked="0" Enabled="1" FatherUID="4352" String="Production Planning" Type="1" position="3" UniqueID="ProductionPlanning"/>
+		 <Menu Checked="0" Enabled="1" FatherUID="14848" String="Production Planning Approval" Type="1" position="5" UniqueID="ApprovalTemplate"/>
+		 <Menu Checked="0" Enabled="1" FatherUID="4352" String="LG BOM" Type="1" position="1" UniqueID="LGBOM"/>
+		 <Menu Checked="0" Enabled="1" FatherUID="4352" String="Engineering Change Order" Type="1" position="2" UniqueID="ECO"/>--><!--
+		 <Menu Checked="0" Enabled="1" FatherUID="4352" String="Engine/ Chasis Mapping Master" Type="1" position="3" UniqueID="ProductionPlanningLMC"/>
+		 <Menu Checked="0" Enabled="1" FatherUID="4352" String="Work Order Details" Type="1" position="11" UniqueID="WorkOrderDetails"/>
+		 <Menu Checked="0" Enabled="1" FatherUID="4352" String="Job Order Execution" Type="1" position="12" UniqueID="JobOrderExecution"/>
+    </action> 
+	</Menus>
+</Application1>-->
+
+
+

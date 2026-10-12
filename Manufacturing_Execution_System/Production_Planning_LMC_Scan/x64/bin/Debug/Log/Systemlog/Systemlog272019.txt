@@ -1,0 +1,2 @@
+Error in GRPO : DocEntry 300223 @ 7/2/2019 3:03:50 PM: Error: 1). [SAP AG][LIBODBCHDB32 DLL][HDBODBC32] General error;268 column ambiguously defined: CardCode: line 1 col 341 (at pos 340)
+

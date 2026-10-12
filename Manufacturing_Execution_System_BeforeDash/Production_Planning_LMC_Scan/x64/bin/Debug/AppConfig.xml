@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CompanyDetails>
+
+  <DatabaseServerName>192.168.11.201:30015</DatabaseServerName>
+  <dbUser>SYSTEM</dbUser>
+  <dbPassword>P@ssw0rD</dbPassword>
+  <Database>TESTING_LMCDB</Database>
+  <LicenseServerName>192.168.11.201</LicenseServerName>
+  
+  <!--<WebUserName>dairy</WebUserName>
+  <WebPassword>9856020226</WebPassword>
+  <seller_pan>301695716</seller_pan>
+  <buyer_pan>302958429</buyer_pan>
+  <fiscal_year>"2079.080"</fiscal_year>
+
+  <InvBaseAddress>https://cbapi.ird.gov.np</InvBaseAddress>
+  <Invresponse>api/bill</Invresponse>
+  <CRNoteresponse>api/billreturn</CRNoteresponse>
+  
+  <SavePDFPath>D:\Desktop\invoices</SavePDFPath>
+  <PDFBackupPath>C:\PDFBackup</PDFBackupPath>
+  <FromEmail>billing.sdpl@sujal.com.np</FromEmail>
+  <FromEmailPassword>billing123</FromEmailPassword>
+  <EmailBody>Dear Sir/Madam,Please find Sales Invoice in attachment</EmailBody>
+  <EmailSubject>Invoice Attachment</EmailSubject>-->
+	
+</CompanyDetails>

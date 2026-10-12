@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\base classes\\eventlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:base classes\\eventlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|d:\\samikshya\\desktop\\manufacturing_execution_system\\production_planning_lmc_scan\\x64\\base classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:base classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\debug\\xml files\\workorderdetails.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:bin\\debug\\xml files\\workorderdetails.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\business logics\\custom forms\\clsworkorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:business logics\\custom forms\\clsworkorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\debug\\xml files\\productionplanninglmc.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:bin\\debug\\xml files\\productionplanninglmc.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\business logics\\system froms\\clsproductionorderr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:business logics\\system froms\\clsproductionorderr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\business logics\\custom forms\\productionplanninglmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:business logics\\custom forms\\productionplanninglmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\debug\\xml files\\joborderexecution.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:bin\\debug\\xml files\\joborderexecution.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\debug\\xml files\\menus.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:bin\\debug\\xml files\\menus.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\base classes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:base classes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\business logics\\custom forms\\clsjoborderexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:business logics\\custom forms\\clsjoborderexecution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\base classes\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD985A36-E810-4AE1-B5DA-00070B292D1C}|Production_Planning_LMC.csproj|solutionrelative:base classes\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductionPlanningLMC.xml",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\Debug\\XML Files\\ProductionPlanningLMC.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\ProductionPlanningLMC.xml",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\Debug\\XML Files\\ProductionPlanningLMC.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\ProductionPlanningLMC.xml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-05-13T05:10:08.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkOrderDetails.xml",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\Debug\\XML Files\\WorkOrderDetails.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\WorkOrderDetails.xml",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\Debug\\XML Files\\WorkOrderDetails.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\WorkOrderDetails.xml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-05-13T05:09:47.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventListener.cs",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Base Classes\\EventListener.cs",
+              "RelativeDocumentMoniker": "Base Classes\\EventListener.cs",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Base Classes\\EventListener.cs",
+              "RelativeToolTip": "Base Classes\\EventListener.cs",
+              "ViewState": "AgIAAPoNAAAAAAAAAAAAAEoOAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T11:23:54.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClsJobOrderExecution.cs",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Business Logics\\Custom Forms\\ClsJobOrderExecution.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsJobOrderExecution.cs",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Business Logics\\Custom Forms\\ClsJobOrderExecution.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsJobOrderExecution.cs",
+              "ViewState": "AgIAAMkBAAAAAAAAAAAuwC0CAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T11:23:41.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClsWorkOrderDetails.cs",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Business Logics\\Custom Forms\\ClsWorkOrderDetails.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ClsWorkOrderDetails.cs",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Business Logics\\Custom Forms\\ClsWorkOrderDetails.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ClsWorkOrderDetails.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBsCAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T11:23:37.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Base Classes\\Database.cs",
+              "RelativeDocumentMoniker": "Base Classes\\Database.cs",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Base Classes\\Database.cs",
+              "RelativeToolTip": "Base Classes\\Database.cs",
+              "ViewState": "AgIAAIoBAAAAAAAAAAAkwLABAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:48:22.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClsProductionOrderr.cs",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Business Logics\\System Froms\\ClsProductionOrderr.cs",
+              "RelativeDocumentMoniker": "Business Logics\\System Froms\\ClsProductionOrderr.cs",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Business Logics\\System Froms\\ClsProductionOrderr.cs",
+              "RelativeToolTip": "Business Logics\\System Froms\\ClsProductionOrderr.cs",
+              "ViewState": "AgIAAP4DAAAAAAAAAAApwAAEAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:36:43.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductionPlanningLMC.cs",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Business Logics\\Custom Forms\\ProductionPlanningLMC.cs",
+              "RelativeDocumentMoniker": "Business Logics\\Custom Forms\\ProductionPlanningLMC.cs",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Business Logics\\Custom Forms\\ProductionPlanningLMC.cs",
+              "RelativeToolTip": "Business Logics\\Custom Forms\\ProductionPlanningLMC.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwAIBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T12:17:57.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Base Classes\\Utilities.cs",
+              "RelativeDocumentMoniker": "Base Classes\\Utilities.cs",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Base Classes\\Utilities.cs",
+              "RelativeToolTip": "Base Classes\\Utilities.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwEcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:01:45.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobOrderExecution.xml",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\Debug\\XML Files\\JobOrderExecution.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\JobOrderExecution.xml",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\Debug\\XML Files\\JobOrderExecution.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\JobOrderExecution.xml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAL8AAAABAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-05-03T08:46:02.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menus.xml",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\Debug\\XML Files\\Menus.xml",
+              "RelativeDocumentMoniker": "bin\\Debug\\XML Files\\Menus.xml",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\bin\\Debug\\XML Files\\Menus.xml",
+              "RelativeToolTip": "bin\\Debug\\XML Files\\Menus.xml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-05-10T12:11:13.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Base Classes\\Constants.cs",
+              "RelativeDocumentMoniker": "Base Classes\\Constants.cs",
+              "ToolTip": "D:\\Samikshya\\Desktop\\Manufacturing_Execution_System\\Production_Planning_LMC_Scan\\x64\\Base Classes\\Constants.cs",
+              "RelativeToolTip": "Base Classes\\Constants.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwJQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T12:13:33.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

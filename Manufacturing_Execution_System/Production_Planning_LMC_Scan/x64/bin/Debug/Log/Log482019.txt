@@ -1,0 +1,2 @@
+GRPO Creation:    Database Name :  [OITW.Locked][line: 0] , 'The warehouse is locked for this itemGIT-A - FG0202020'  [الرسالة 0-0]8/4/2019 5:29:27 PM
+GRPO Created Sucessfully:    :  GRPO Entry :132508/4/2019 5:43:27 PM

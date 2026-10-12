@@ -1,0 +1,18 @@
+ExportReportToPdfFile Error :Log on failed.
+ExportReportToPdfFile Error :Log on failed.
+ExportReportToPdfFile Error :Log on failed.
+ExportReportToPdfFile Error :Log on failed.
+ExportReportToPdfFile Error :Log on failed.
+ExportReportToPdfFile Error :Invalid index. (Exception from HRESULT: 0x8002000B (DISP_E_BADINDEX))
+ExportReportToPdfFile Error :Database logon failed.
+ExportReportToPdfFile Error :Error in File InvoiceLayout 1304_10908_{60286286-9D87-4DE2-B6FE-F585F7B7A410}.rpt:
+Unable to connect: incorrect log on parameters.
+Details:  [Database Vendor Code: -10709 ]
+ExportReportToPdfFile Error :Log on failed.
+ExportReportToPdfFile Error :Error in File InvoiceLayout 6728_7944_{116B30E6-3B5A-4C2A-85BA-30D7FF015541}.rpt:
+Unable to connect: incorrect log on parameters.
+Details:  [Database Vendor Code: -10709 ]
+ExportReportToPdfFile Error :Log on failed.
+ExportReportToPdfFile Error :Error in File InvoiceLayout 8088_6224_{7758DE54-A8C4-4673-A642-B9F5AD868716}.rpt:
+Unable to connect: incorrect log on parameters.
+Details:  [Database Vendor Code: -10709 ]

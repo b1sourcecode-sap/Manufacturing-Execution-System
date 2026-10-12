@@ -1,0 +1,4 @@
+GRPO Creation:    Database Name : No matching records found (ODBC -2028)6/25/2019 6:06:25 PM
+GRPO Creation:    Database Name : Warehouse is not assigned to the same branch as the document  [PDN1.WhsCode][line: 1] , 'FG-A'6/25/2019 6:31:32 PM
+GRPO Creation:    Database Name :  [OITW.Locked][line: 0] , 'The warehouse is locked for this itemBBSM01 - FG0301020'  [الرسالة 0-0]6/25/2019 8:22:23 PM
+GRPO Created Sucessfully:    :  GRPO Entry :113976/25/2019 8:26:27 PM

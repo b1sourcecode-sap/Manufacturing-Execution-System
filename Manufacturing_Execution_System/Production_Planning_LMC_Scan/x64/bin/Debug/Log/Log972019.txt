@@ -1,0 +1,3 @@
+GRPO Creation:    Database Name :  [PDN1.ItemCode][line: 1] , 'Business partner catalog number linked to item not specified as purchasing item (1)'7/9/2019 11:34:41 AM
+GRPO Creation:    Database Name :  [PDN1.ItemCode][line: 1] , 'Business partner catalog number linked to item not specified as purchasing item (1)'7/9/2019 11:53:20 AM
+GRPO Created Sucessfully:    :  GRPO Entry :114097/9/2019 12:38:47 PM

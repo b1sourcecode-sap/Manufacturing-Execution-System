@@ -1,0 +1,2 @@
+ExportReportToPdfFile Error :Failed to open the connection.
+InvoiceLayout {4F674F09-E11C-43A3-9AE8-40364FBE2744}.rpt

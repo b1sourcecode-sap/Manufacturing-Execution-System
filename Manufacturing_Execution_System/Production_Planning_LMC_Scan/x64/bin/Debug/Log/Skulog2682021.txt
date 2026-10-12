@@ -1,0 +1,2 @@
+ExportReportToPdfFile Error :Error in File EmailInvoiceCopy 14104_17916_{508F5318-2852-4BAA-965A-FE7E92141474}.rpt:
+Database Connector Error

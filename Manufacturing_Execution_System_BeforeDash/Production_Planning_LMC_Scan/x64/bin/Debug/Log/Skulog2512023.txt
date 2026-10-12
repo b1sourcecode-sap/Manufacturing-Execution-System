@@ -1,0 +1,6 @@
+ExportReportToPdfFile Error :Error in File InvoiceLayout 8000_11408_{5D118A1F-645F-4AC3-AFAB-9AAFFF90F0A5}.rpt:
+Failed to retrieve data from the database.
+Details:  [Database Vendor Code: 257 ]
+ExportReportToPdfFile Error :Error in File InvoiceLayout 8000_11408_{014A65DD-44B4-4D47-A522-99C59EA2D35A}.rpt:
+Failed to retrieve data from the database.
+Details:  [Database Vendor Code: 257 ]

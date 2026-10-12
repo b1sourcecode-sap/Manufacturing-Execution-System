@@ -1,0 +1,3 @@
+ExportReportToPdfFile Error :Error in File EmailInvoiceCopy 12636_13084_{D4D17551-91B8-4BD9-878B-74B7F6264D69}.rpt:
+Unable to connect: incorrect log on parameters.
+Details:  [Database Vendor Code: 1033 ]

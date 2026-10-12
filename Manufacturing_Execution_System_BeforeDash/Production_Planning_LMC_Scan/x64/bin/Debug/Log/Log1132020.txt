@@ -1,0 +1,3 @@
+GRPO Creation:    Database Name : Item number is missing; specify an item number  [PDN1.ItemCode][line: 1]03-11-2020 12:49:24 PM
+GRPO Creation:    Database Name : Item number is missing; specify an item number  [PDN1.ItemCode][line: 1]03-11-2020 1:15:27 PM
+GRPO Created Sucessfully:    :  GRPO Entry :2314503-11-2020 1:27:43 PM

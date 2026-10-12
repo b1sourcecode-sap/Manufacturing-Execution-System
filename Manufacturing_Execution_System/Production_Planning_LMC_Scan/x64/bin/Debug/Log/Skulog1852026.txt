@@ -1,0 +1,43 @@
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Not supported within subreports.
+Crystal Print Error: Missing parameter values.
+Crystal Print Error: Missing parameter values.
+Crystal Print Error: Missing parameter values.
+Crystal Print Error: Index was outside the bounds of the array.
+Crystal Print Error: Missing parameter values.
+Crystal Print Error: Missing parameter values.
+Crystal Print Error: Missing parameter values.
+Crystal Print Error: Error in File ProductionTraveller 23516_21880_{E15CEDD8-7D6A-4C74-BB9A-36E1AEE4BCE8}.rpt:
+Unable to connect: incorrect log on parameters.
+Crystal Print Error: Error in File ProductionTraveller 19268_13184_{5E2BEE41-E723-4C16-BAB2-9369F0158FD5}.rpt:
+Unable to connect: incorrect log on parameters.
+Crystal Print Error: Error in File ProductionTraveller 23968_23444_{CB273436-3D66-4EC5-833E-54B6B05CBC34}.rpt:
+Unable to connect: incorrect log on parameters.

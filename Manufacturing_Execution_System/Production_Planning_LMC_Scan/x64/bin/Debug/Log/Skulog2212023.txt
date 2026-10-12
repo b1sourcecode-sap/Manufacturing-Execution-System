@@ -1,0 +1,2 @@
+ExportReportToPdfFile Error :Error in File InvoiceLayout 15960_8768_{F93CB3D8-FD9C-411B-85DE-647DD770FB69}.rpt:
+Database Connector Error
